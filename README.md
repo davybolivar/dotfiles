@@ -29,7 +29,7 @@ pact install vim curl git cmake gcc-core gcc-g++ python tmux
 # Install requirements END
 
 # seriously, that's it! and follow the prompts!
-sh <(curl -sL https://raw.githubusercontent.com/skatzteyp/dotfiles/master/install)
+sh <(curl -sL https://raw.githubusercontent.com/davybolivar/dotfiles/master/install)
 ```
 
 Platform support
